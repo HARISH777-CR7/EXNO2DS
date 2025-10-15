@@ -153,11 +153,24 @@ sns.pairplot(dt)
 
 
 <img width="960" alt="d19" src="https://github.com/user-attachments/assets/7e413260-c7e5-42b7-b295-e6b76e898b44" />
-
-
-
-
 <img width="960" alt="d20" src="https://github.com/user-attachments/assets/ba85dd4d-8d2f-4264-bbad-60b42b8d0a2b" />
 ```
-# RESULT
-        To perform Exploratory Data Analysis on the given data is successfully completed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# RESULT:
+      To perform Exploratory Data Analysis on the given data is successfully completed.
